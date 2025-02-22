@@ -14,8 +14,8 @@
 #include <libgen.h>
 
 #define BUFFER_SIZE 9000
-#define EXPIRATION_YEAR 2025
-#define EXPIRATION_MONTH 2
+#define EXPIRATION_YEAR 2026
+#define EXPIRATION_MONTH 7
 #define EXPIRATION_DAY 17
 #define DEFAULT_THREADS 900
 #define EXPECTED_PROGRAM_NAME "love"  // Set the expected program name here
